@@ -1,4 +1,5 @@
-name: "fdussap-homepage"
+name: "fdussap-homepage" 
+output_dir: "."
 navbar:
   title: "Florian Dussap"
   left:
