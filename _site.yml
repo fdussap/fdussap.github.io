@@ -1,0 +1,14 @@
+name: "fdussap-homepage"
+navbar:
+  title: "Florian Dussap"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Teaching"
+      href: teaching.html
+
+output:
+  html_document:
+    theme: flatly
