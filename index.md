@@ -2,7 +2,7 @@
 pagetitle: "Florian Dussap – Home"
 ---
 
-<img src="./photo.jpg" height="200" />
+<img src="./Files/photo.jpg" height="200" />
 
 
 ## About Me
