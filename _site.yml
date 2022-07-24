@@ -1,4 +1,4 @@
-name: "fdussap-homepage" 
+name: "Florian Dussap" 
 output_dir: "."
 navbar:
   title: "Florian Dussap"
@@ -9,7 +9,11 @@ navbar:
       href: talks.html
     - text: "Teaching"
       href: teaching.html
-
+  right:
+    # - icon: fa-envelope fa-lg
+    #   href: contact.html
+    - icon: ai-cv ai-lg
+      href: ./Files/cv.pdf
 output:
   html_document:
     theme: flatly
