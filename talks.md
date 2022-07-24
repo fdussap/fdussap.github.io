@@ -15,7 +15,7 @@ title: "Talks"
 - I gave a talk at the [Rencontres Jeunes Statisticien·ne·s](https://rjs2022.sciencesconf.org) in April 2022 about: *Nonparametric Regression by Projection on Non-compactly Supported Bases*.  
 [[slides]](./Files/rjs-22.pdf)
 
-- I gave a talk at the [Colloque Jeunes Probabilistes et Statsiticiens](https://jps-2021.sciencesconf.org/) in October 2021 about: *Estimation non paramétrique de la fonction de Gerber–Shiu dans le modèle de Cramér–Lundberg*.  
+- I gave a talk at the [Colloque Jeunes Probabilistes et Statisticiens](https://jps-2021.sciencesconf.org/) in October 2021 about: *Estimation non paramétrique de la fonction de Gerber–Shiu dans le modèle de Cramér–Lundberg*.  
 [[slides]](./Files/jps-21.pdf)
 
 - I was supposed to give a talk at the [52e Journées de Statistique](https://jds2020.sciencesconf.org) in May 2020, but it has been postponed due to the Covid-19 pandemic.
