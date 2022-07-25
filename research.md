@@ -25,17 +25,13 @@ I defended my PhD thesis [*New Insights on Inverse Problems: Multidimensional St
 
 ## Talks
 
--   *Nonparametric Regression by Projection on Non-compactly Supported Bases*. [53e Journée de Statistique](https://jds22.sciencesconf.org/), June 2022.\
-    [[slides]](./Files/jds-22.pdf)
+-   *Nonparametric Regression by Projection on Non-compactly Supported Bases*. [53e Journées de Statistique](https://jds22.sciencesconf.org/), June 2022. [(slides)](./Files/jds-22.pdf)
 
--   *Estimation non paramétrique de la fonction de Gerber--Shiu dans le modèle de Cramér--Lundberg*. [Groupe de travail de Statistique of the LMRS](https://lmrs.univ-rouen.fr/fr/content/estimation-de-la-fonction-de-gerber-shiu-dans-le-modele-de-cramer-lundberg), May 2022.\
-    [[slides]](./Files/rouen-05-22.pdf)
+-   *Estimation non paramétrique de la fonction de Gerber--Shiu dans le modèle de Cramér--Lundberg*. [Groupe de travail de Statistique of the LMRS](https://lmrs.univ-rouen.fr/fr/content/estimation-de-la-fonction-de-gerber-shiu-dans-le-modele-de-cramer-lundberg), May 17, 2022. [(slides)](./Files/rouen-05-22.pdf)
 
--   *Nonparametric Regression by Projection on Non-compactly Supported Bases*. [Rencontres Jeunes Statisticien·ne·s](https://rjs2022.sciencesconf.org), April 2022.\
-    [[slides]](./Files/rjs-22.pdf)
+-   *Nonparametric Regression by Projection on Non-compactly Supported Bases*. [Rencontres Jeunes Statisticien·ne·s](https://rjs2022.sciencesconf.org), April 2022. [(slides)](./Files/rjs-22.pdf)
 
--   *Estimation non paramétrique de la fonction de Gerber--Shiu dans le modèle de Cramér--Lundberg*. [Colloque Jeunes Probabilistes et Statisticiens](https://jps-2021.sciencesconf.org/), October 2021.\
-    [[slides]](./Files/jps-21.pdf)
+-   *Estimation non paramétrique de la fonction de Gerber--Shiu dans le modèle de Cramér--Lundberg*. [Colloque Jeunes Probabilistes et Statisticiens](https://jps-2021.sciencesconf.org/), October 2021. [(slides)](./Files/jps-21.pdf)
 
 -   *Déconvolution sur* $\mathbb{R}_+^d$ par projection sur la base de Laguerre. [52e Journées de Statistique](https://jds2020.sciencesconf.org), May 2020.\
     Talk cancelled due to the Covid-19 pandemic.

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Florian Dussap – Teaching"
+pagetitle: "Teaching -- F. Dussap"
 title: "Teaching"
 ---
 
