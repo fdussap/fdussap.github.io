@@ -1,21 +1,18 @@
 ---
-pagetitle: "Research – F. Dussap"
+pagetitle: "Research -- F. Dussap"
 title: "Research"
 ---
 
+I have a PhD in Mathematical Statistics. I did my thesis at [MAP5 Laboratory](http://w3.mi.parisdescartes.fr/map5/) in [Université Paris Cité](https://u-paris.fr/en/), under the supervision of [Fabienne Comte](http://helios.mi.parisdescartes.fr/~comte/) and [Céline Duval](https://sites.google.com/site/celinehduval/).
+I defended my PhD thesis [*New Insights on Inverse Problems: Multidimensional Strategies for Deconvolution or Regression, and Ruin Probability Estimation*](./Files/thesis.pdf) on June 24 [(slides)](./Files/thesis_defence.pdf). I study the use of non-compactly supported bases (Laguerre basis, Hermite basis) in inverse problems, with applications to ruin probability estimation. 
 
-## Research Topics
+
+## Research Interests
 
 -   Adaptive Nonparametric Estimation
 -   Inverse Problems (Deconvolution, Regression)
 -   Non-compactly Supported Orthogonal Bases
 -   Ruin Probabilities in Risk Models
-
-
-## PhD Thesis
-
-I defended my PhD thesis [*New Insights on Inverse Problems: Multidimensional Strategies for Deconvolution or Regression, and Ruin Probability Estimation*](./Files/thesis.pdf) on June 24.\
-    [[slides]](./Files/thesis_defence.pdf)
 
 
 ## Publications
