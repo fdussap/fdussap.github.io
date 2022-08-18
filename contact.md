@@ -4,7 +4,7 @@ title: "Contact"
 ---
 
 
-[`florian.dussap@ac-paris.fr`](mailto:florian.dussap@ac-paris.fr)
+[`florian.dussap@ac-versailles.fr`](mailto:florian.dussap@ac-versailles.fr)
 
 Laboratoire MAP5\
 UFR de Mathématiques et Informatique\
