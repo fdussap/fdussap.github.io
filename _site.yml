@@ -11,6 +11,9 @@ navbar:
       href: ./Files/cv.pdf
     - text: "Contact"
       href: contact.html
+  right:
+    - text: "FR"
+      href: ./Fr/index.html
 output:
   html_document:
     theme: flatly

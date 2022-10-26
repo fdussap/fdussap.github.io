@@ -1,0 +1,19 @@
+name: "Florian Dussap" 
+output_dir: "."
+navbar:
+  title: "Florian Dussap"
+  left:
+    - text: "Recherche"
+      href: research_FR.html
+    - text: "Enseignement"
+      href: teaching_FR.html
+    - text: "CV"
+      href: ../Files/cv.pdf
+    - text: "Contact"
+      href: contact_FR.html
+  right:
+    - text: "EN"
+      href: ../index.html
+output:
+  html_document:
+    theme: flatly
