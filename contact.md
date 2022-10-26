@@ -3,13 +3,8 @@ pagetitle: "Contact -- F. Dussap"
 title: "Contact"
 ---
 
-
 [`florian.dussap@gmail.com`](mailto:florian.dussap@gmail.com)
 
-Laboratoire MAP5\
-UFR de Mathématiques et Informatique\
-Université Paris Cité\
-45 rue des Saints-Pères\
-75006 Paris, France
-
-Bureau 750
+LPO Gaspard Monge\
+1 place Monge\
+91600 SAVIGNY-SUR-ORGE
