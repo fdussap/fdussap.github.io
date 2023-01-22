@@ -18,7 +18,7 @@ J'ai soutenu ma thèse [Nouvelles perspectives sur les problèmes inverses : str
 
 ## Publications
 
--   [Nonparametric Multiple Regression by Projection on Non-compactly Supported Bases](https://hal.archives-ouvertes.fr/hal-03506635). Dussap, F. *Preprint hal-03506635*, 2022.
+-   [Nonparametric Multiple Regression by Projection on Non-compactly Supported Bases](https://hal.archives-ouvertes.fr/hal-03506635). Dussap, F. *Annals of the Institute of Statistical Mathematics*, 2023.
 
 -   [Nonparametric Estimation of the Expected Discounted Penalty Function in the Compound Poisson Model](https://hal.archives-ouvertes.fr/hal-03212783). Dussap, F. *Electronic Journal of Statistics*, 16(1):2124--2174, 2022.
 
