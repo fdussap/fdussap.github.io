@@ -3,8 +3,9 @@ pagetitle: "Contact -- F. Dussap"
 title: "Contact"
 ---
 
-[`florian.dussap@gmail.com`](mailto:florian.dussap@gmail.com)
+[`florian.dussap@cyu.fr`](mailto:florian.dussap@cyu.fr)
 
-LPO Gaspard Monge\
-1 place Monge\
-91600 SAVIGNY-SUR-ORGE
+CY Cergy Paris Univserité\
+Site Saint-Martin, bureau E5.38\
+2 avenue Adolphe-Chauvin\
+95302 CERGY-PONTOISE cedex

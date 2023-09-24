@@ -13,7 +13,7 @@
 
 <title>Enseignement – F. Dussap</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -252,9 +249,6 @@ $(document).ready(function () {
   <a href="teaching_FR.html">Enseignement</a>
 </li>
 <li>
-  <a href="../Files/cv.pdf">CV</a>
-</li>
-<li>
   <a href="contact_FR.html">Contact</a>
 </li>
       </ul>
@@ -276,11 +270,24 @@ $(document).ready(function () {
 </div>
 
 
-<p>Depuis septembre 2022, je suis professeur de mathématiques au lycée
-Gaspard Monge de Savigny-sur-Orge.</p>
+<p>Depuis septembre 2023, je suis professeur agrégé à CY Cergy Paris
+Université.</p>
+<p>De septembre 2022 à juin 2023, j’ai été professeur de mathématiques
+au lycée Gaspard Monge de Savigny-sur-Orge.</p>
 <p>De 2019 à 2022, j’ai été chargé de TD à l’université Paris Cité
 (campus Saint-Germain-des-Prés).</p>
 <ul>
+<li><strong>Cours</strong>
+<ul>
+<li>Algèbre linéaire 1, <a
+href="https://www.cyu.fr/formation/trouver-sa-formation/catalogue-des-formations/portail-dentree-en-l1-mipi-portail-mathematique-informatique-physique-ingenierie">L1
+MIPI</a>, <em>CY Cergy Paris Université</em>, 2023-2024.</li>
+<li>Algèbre 1, <a
+href="https://cytech.cyu.fr/formations-cy-tech/cycle-pre-ingenieur-prepa">cycle
+pré-ingénieur 1</a>, <em>CY Tech</em>, 2023-2024. Cours co-assuré par <a
+href="https://sites.google.com/site/nicolasarancibiarobert/">Nicolas
+Arancibia Robert</a>.</li>
+</ul></li>
 <li><strong>Travaux dirigés</strong>
 <ul>
 <li>Probabilités 5, <a

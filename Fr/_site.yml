@@ -7,8 +7,8 @@ navbar:
       href: research_FR.html
     - text: "Enseignement"
       href: teaching_FR.html
-    - text: "CV"
-      href: ../Files/cv.pdf
+    # - text: "CV"
+    #   href: ../Files/cv.pdf
     - text: "Contact"
       href: contact_FR.html
   right:
