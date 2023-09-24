@@ -3,10 +3,10 @@ output_dir: "."
 navbar:
   title: "Florian Dussap"
   left:
-    - text: "Recherche"
-      href: research_FR.html
     - text: "Enseignement"
       href: teaching_FR.html
+    - text: "Recherche"
+      href: research_FR.html
     # - text: "CV"
     #   href: ../Files/cv.pdf
     - text: "Contact"

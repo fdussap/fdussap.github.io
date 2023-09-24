@@ -3,7 +3,7 @@ pagetitle: "Recherche -- F. Dussap"
 title: "Recherche"
 ---
 
-Je suis titulaire d'un doctorat en mathématiques appliquées. J'ai effectué ma thèse au [laboratoire MAP5](http://w3.mi.parisdescartes.fr/map5/) à [l'université Paris Cité](https://u-paris.fr/), sous la supervision de [Fabienne Comte](http://helios.mi.parisdescartes.fr/~comte/) et [Céline Duval](https://sites.google.com/site/celinehduval/).
+Je suis titulaire d'un doctorat en mathématiques appliquées. J'ai effectué ma thèse au [laboratoire MAP5](http://w3.mi.parisdescartes.fr/map5/) à [l'université Paris Cité](https://u-paris.fr/), sous la direction de [Fabienne Comte](http://helios.mi.parisdescartes.fr/~comte/) et [Céline Duval](https://sites.google.com/site/celinehduval/).
 
 J'ai soutenu ma thèse [Nouvelles perspectives sur les problèmes inverses : stratégies multidimensionnelles pour la déconvolution ou la régression et estimation de la probabilité de ruine](./Files/thesis.pdf) le 24 juin 2022. [(slides)](./Files/thesis_defence.pdf)
 
