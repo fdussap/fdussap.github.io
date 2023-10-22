@@ -27,7 +27,7 @@ J'ai soutenu ma thèse [Nouvelles perspectives sur les problèmes inverses : str
 
 ## Communications orales
 
--   Nonparametric Regression by Projection on Non-compactly Supported Bases. [*53e Journées de Statistique*](https://jds22.sciencesconf.org/), June 2022. [(slides)](./Files/jds-22.pdf)
+-   Nonparametric Regression by Projection on Non-compactly Supported Bases. [*53e Journées de Statistique*](https://jds22.sciencesconf.org/), June 2022. [(slides)](../Files/jds-22.pdf)
 
 -   Estimation non paramétrique de la fonction de Gerber--Shiu dans le modèle de Cramér--Lundberg. [*Groupe de travail de Statistique of the LMRS*](https://lmrs.univ-rouen.fr/fr/content/estimation-de-la-fonction-de-gerber-shiu-dans-le-modele-de-cramer-lundberg), May 17, 2022. [(slides)](../Files/rouen-05-22.pdf)
 
