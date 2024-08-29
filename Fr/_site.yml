@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Enseignement"
       href: teaching_FR.html
+    - text: "Double licence MI"
+      href: DLMI_FR.html
     - text: "Recherche"
       href: research_FR.html
     # - text: "CV"
