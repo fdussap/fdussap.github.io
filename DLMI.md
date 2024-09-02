@@ -12,7 +12,7 @@ title: "Double licence mathématiques et informatique"
 -   [Planning de la semaine d'intégration](https://docs.google.com/spreadsheets/d/1d0K5-5VrOCrhVHrBEEHz5HDmfQ_NWSPSieGwtX3zS9g/pubhtml?gid=301115744&single=true)
 -   [EDT Semestre 1](./Files/DL/edt_L1_24-25.pdf)
 -   Discord L1 MIPI 2024-2025 : <https://discord.gg/s5BjF6nxZq>
--   Site d'Irénée Briquel, responsable de la L1 MIPI : <https://perso.u-cergy.fr/~ibriquel/l1mipi>
+-   Site d'Irénée Briquel, responsable de la L1 MIPI : <https://perso.u-cergy.fr/~ibriquel>
 
 ## 2e année
 
