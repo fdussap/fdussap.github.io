@@ -17,7 +17,7 @@ title: "Double licence mathématiques et informatique"
 ## 2e année
 
 -   [Accueil rentrée 2024-2025](./Files/DL/accueil_DLMI2_24-25.pdf)
--   [EDT rentrée 2024-2025](./Files/DL/DLMI2_rentree.pdf)
+-   [EDT semestre 1](./Files/DL/EDT_L2_DL_MI-S3-D.pdf)
 -   Discord L2 MIPI 2024-2025 : <https://discord.gg/UjSdPvm2Tw>
 
 ## 3e année
