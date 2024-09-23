@@ -9,6 +9,7 @@ title: "Enseignement"
 -   **Probabilités**, L2 mathématiques, *CY Cergy Paris Université*, 2024-2025.
     -   CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
     -   [TD1 : dénombrement et espace de probabilité fini](./Files/Proba/TD1_proba.pdf)
+    -   [TD1.5 : exercices supplémentaires](./Files/Proba/TD1.5_proba.pdf)
     -   TD2 : conditionnement et indépendance (à venir)
     -   TD3 : variables aléatoires finies (à venir)
     -   TD4 : loi géomtrique et loi de Poisson (à venir)
