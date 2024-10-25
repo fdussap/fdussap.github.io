@@ -8,8 +8,11 @@ title: "Enseignement"
     -   [Feuilles de TD](./Files/Algebre_lineaire_1/TD_alg1.pdf)
 -   **Probabilités**, L2 mathématiques, *CY Cergy Paris Université*, 2024-2025.
     -   CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
-    -   [TD1 : dénombrement et espace de probabilité fini](./Files/Proba/TD1_proba.pdf)
-    -   [TD1.5 : exercices supplémentaires](./Files/Proba/TD1.5_proba.pdf)
-    -   [TD2 : conditionnement et indépendance](./Files/Proba/TD2_proba.pdf)
-    -   TD3 : variables aléatoires finies (à venir)
-    -   TD4 : loi géomtrique et loi de Poisson (à venir)
+    -   Feuilles de TD
+        -   [TD1 : dénombrement et espace de probabilité fini](./Files/Proba/TD1_proba.pdf)
+        -   [TD1.5 : exercices supplémentaires](./Files/Proba/TD1.5_proba.pdf)
+        -   [TD2 : conditionnement et indépendance](./Files/Proba/TD2_proba.pdf)
+        -   TD3 : variables aléatoires finies (à venir)
+        -   TD4 : loi géomtrique et loi de Poisson (à venir)
+    -   Contrôle continu
+        -   CC1 : [sujet](./Files/Proba/CC1.pdf), [corrigé](./Files/Proba/CC1_correction.pdf)

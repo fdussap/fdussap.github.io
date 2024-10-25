@@ -20,4 +20,4 @@ title: "Double licence mathématiques et informatique"
 -   [EDT semestre 1](./Files/DL/EDT_L2_DL_MI-S3-D.pdf)
 -   Discord L2 MIPI 2024-2025 : <https://discord.gg/UjSdPvm2Tw>
 
-## 3e année
+
