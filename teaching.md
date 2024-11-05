@@ -12,7 +12,7 @@ title: "Enseignement"
         -   [TD1 : dénombrement et espace de probabilité fini](./Files/Proba/TD1_proba.pdf)
         -   [TD1.5 : exercices supplémentaires](./Files/Proba/TD1.5_proba.pdf)
         -   [TD2 : conditionnement et indépendance](./Files/Proba/TD2_proba.pdf)
-        -   TD3 : variables aléatoires finies (à venir)
+        -   [TD3 : variables aléatoires finies](./Files/Proba/TD3_proba.pdf)
         -   TD4 : loi géomtrique et loi de Poisson (à venir)
     -   Contrôle continu
         -   CC1 : [sujet](./Files/Proba/CC1.pdf), [corrigé](./Files/Proba/CC1_correction.pdf)
