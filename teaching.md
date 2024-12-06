@@ -13,6 +13,7 @@ title: "Enseignement"
         -   [TD1.5 : exercices supplémentaires](./Files/Proba/TD1.5_proba.pdf)
         -   [TD2 : conditionnement et indépendance](./Files/Proba/TD2_proba.pdf)
         -   [TD3 : variables aléatoires finies](./Files/Proba/TD3_proba.pdf)
-        -   TD4 : loi géomtrique et loi de Poisson (à venir)
+        -   [TD4 : loi géomtrique et loi de Poisson](./Files/Proba/TD4_proba.pdf)
     -   Contrôle continu
         -   CC1 : [sujet](./Files/Proba/CC1.pdf), [corrigé](./Files/Proba/CC1_correction.pdf)
+        -   CC2 : [sujet](./Files/Proba/CC2.pdf), [corrigé](./Files/Proba/CC2_correction.pdf)
