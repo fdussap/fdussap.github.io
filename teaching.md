@@ -17,3 +17,8 @@ title: "Enseignement"
     -   Contrôle continu
         -   CC1 : [sujet](./Files/Proba/CC1.pdf), [corrigé](./Files/Proba/CC1_correction.pdf)
         -   CC2 : [sujet](./Files/Proba/CC2.pdf), [corrigé](./Files/Proba/CC2_correction.pdf)
+-   **Intégration**, L2 mathématiques, *CY Cergy Paris Université*, 2024-2025.
+    -   CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
+    -   Feuilles de TD
+        -   [TD1 : intégrale et sommes de Riemann](./Files/Integration/TD1_integration.pdf)
+        -   TD2 : à venir
