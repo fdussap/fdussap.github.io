@@ -21,4 +21,5 @@ title: "Enseignement"
     -   CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
     -   Feuilles de TD
         -   [TD1 : intégrale et sommes de Riemann](./Files/Integration/TD1_integration.pdf)
-        -   TD2 : à venir
+        -   [TD2 : continuité et intégration](./Files/Integration/TD2_integration.pdf)
+        -   TD3 : à venir
