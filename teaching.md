@@ -23,3 +23,4 @@ title: "Enseignement"
         -   [TD1 : intégrale et sommes de Riemann](./Files/Integration/TD1_integration.pdf)
         -   [TD2 : continuité et intégration](./Files/Integration/TD2_integration.pdf)
         -   [TD3 : calculs d'intégrales](./Files/Integration/TD3_integration.pdf)
+        -   [TD4 : intégrales de fractions rationnelles](./Files/Integration/TD4_integration.pdf)
