@@ -25,4 +25,4 @@ title: "Enseignement"
         -   [TD3 : calculs d'intégrales](./Files/Integration/TD3_integration.pdf)
         -   [TD4 : intégrales de fractions rationnelles](./Files/Integration/TD4_integration.pdf)
     -  Contrôle continu
-        -  CC1 : [sujet](./Files/Integration/CC1.pdf)
+        -  CC1 : [sujet](./Files/Integration/CC1.pdf), [corrigé](./Files/Integration/CC1_correction.pdf)
