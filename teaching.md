@@ -28,6 +28,7 @@ title: "Enseignement"
         -   [TD6 : limites d'intégrales](./Files/Integration/TD6_integration.pdf)
     -   Contrôle continu
         -  CC1 : [sujet](./Files/Integration/CC1.pdf), [corrigé](./Files/Integration/CC1_correction.pdf)
+        -  CC2 : [sujet](./Files/Integration/CC2.pdf), [corrigé](./Files/Integration/CC2_correction.pdf)
 -   **Analyse 3**, L2 mathématiques, *CY Cergy Paris Université*, 2024-2025.
     -   CM assuré par [Alexandre Mizrahi](https://mizrahi.u-cergy.fr/)
     -   Contrôle continu
