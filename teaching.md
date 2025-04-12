@@ -25,7 +25,8 @@ title: "Enseignement"
         -   [TD3 : calculs d'intégrales](./Files/Integration/TD3_integration.pdf)
         -   [TD4 : intégrales de fractions rationnelles](./Files/Integration/TD4_integration.pdf)
         -   [TD5 : intégrales impropres](./Files/Integration/TD5_integration.pdf)
-        -   [TD6 : limites d'intégrales](./Files/Integration/TD6_integration.pdf)
+        -   [TD6 : limites d'intégrales](./Files/Integration/TD6_integration.pdf) 
+            - [correction ex 3](./Files/Integration/TD6_integration_ex3.pdf)
         -   [TD7 : intégrales à paramètre](./Files/Integration/TD7_integration.pdf)
     -   Contrôle continu
         -  CC1 : [sujet](./Files/Integration/CC1.pdf), [corrigé](./Files/Integration/CC1_correction.pdf)
