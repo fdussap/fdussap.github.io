@@ -35,3 +35,4 @@ title: "Enseignement"
     -   CM assuré par [Alexandre Mizrahi](https://mizrahi.u-cergy.fr/)
     -   Contrôle continu
         -  CC1 : [sujet](./Files/Analyse_3/CC1.pdf), [corrigé](./Files/Analyse_3/CC1_correction.pdf)
+        -  CC2 : [sujet](./Files/Analyse_3/CC2.pdf), [corrigé](./Files/Analyse_3/CC2_correction.pdf)
