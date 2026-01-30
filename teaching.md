@@ -14,3 +14,6 @@ title: "Enseignement"
     -   [Feuilles de TD](./Files/Integration/TD_integration.pdf)
 -   **Analyse 3**, L2 mathématiques, *CY Cergy Paris Université*, 2025-2026.
     -   CM assuré par [Alexandre Mizrahi](https://mizrahi.u-cergy.fr/)
+    -   Annales contrôle continu 2024-2025 :
+        - [CC1](./Files/Analyse_3/CC1_2024-2025.pdf)
+        - [CC2](./Files/Analyse_3/CC2_2024-2025.pdf)
