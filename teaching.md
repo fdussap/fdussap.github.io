@@ -17,7 +17,8 @@ title: "Enseignement"
     -   Contrôle continu :
         -   CC1 ([sujet](./Files/Analyse_3/CC1_2025-2026.pdf), [corrigé](./Files/Analyse_3/CC1_2025-2026_correction.pdf))
         -   CC2 ([sujet](./Files/Analyse_3/CC2_2025-2026.pdf), [corrigé](./Files/Analyse_3/CC2_2025-2026_correction.pdf))
-        -   CC3 (à venir : lundi 4 mai 2026)
+        -   CC3 ([sujet](./Files/Analyse_3/CC3_2025-2026.pdf), [corrigé](./Files/Analyse_3/CC3_2025-2026_correction.pdf))
+    <!-- Systèmes différentiels : représentation graphique ([html](./Files/Analyse_3/systeme_diff.html), [notebook](./Files/Analyse_3/systeme_diff.ipynb)) -->
     -   Annales contrôle continu 2024-2025 :
         -   [CC1](./Files/Analyse_3/CC1_2024-2025.pdf)
         -   [CC2](./Files/Analyse_3/CC2_2024-2025.pdf)
