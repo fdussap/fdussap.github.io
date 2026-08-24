@@ -12,8 +12,8 @@ title: "Enseignement"
   - CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
   - [Feuilles de TD](./Files/Proba/TD_proba.pdf)
 - **Analyse numérique**, L3 mathématiques, *CY Cergy Paris Université*, 2026-2027.
-  - Notes de cours
-  - Feuilles de TD
+  - [Notes de cours](./Files/Analyse_numerique/cours_analyse_numerique.pdf)
+  - [Feuilles de TD](./Files/Analyse_numerique/TD_analyse_numerique.pdf)
   - [Instructions pour installer Python](./installation_python.html)
 
 ### Second semestre
