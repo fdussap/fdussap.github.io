@@ -13,7 +13,7 @@ title: "Double licence mathématiques et informatique"
 
 ## 2e année
 
--   Accueil rentrée 2026-2027
+-   [Accueil rentrée 2026-2027](./Files/DL/accueil_L2_DLMI_26-27.pdf)
 
 ## 3e année
 
