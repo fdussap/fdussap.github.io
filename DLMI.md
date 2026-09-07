@@ -8,7 +8,7 @@ title: "Double licence mathématiques et informatique"
 
 ## 1re année
 
--   Accueil rentrée 2026-2027
+-   [Accueil rentrée 2026-2027](./Files/DL/accueil_L1_DLMI_26-27.pdf)
 -   [Planning de la semaine d'intégration](https://docs.google.com/spreadsheets/d/1mMLMA3qKME7EIb6W4F76-07vrf0oxj3j7JgJ0D352l8/edit?gid=0#gid=0)
 
 ## 2e année
