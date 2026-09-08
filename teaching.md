@@ -5,8 +5,8 @@ title: "Enseignement"
 
 ### Premier semestre
 
-- **Algèbre linéaire 1**, L1 MIPI, *CY Cergy Paris Université*, 2025-2026.
-  - Notes de cours [(couleur)](./Files/Algebre_lineaire_1/cours_alg1_COULEUR.pdf) [(impression N&B)](./Files/Algebre_lineaire_1/cours_alg1_IMPRESSION_NB.pdf)
+- **Algèbre linéaire 1**, L1 MIPI, *CY Cergy Paris Université*, 2026-2027.
+  - Notes de cours [(couleur)](./Files/Algebre_lineaire_1/cours_alg1.pdf) [(impression N&B)](./Files/Algebre_lineaire_1/cours_alg1_NB.pdf)
   - [Feuilles de TD](./Files/Algebre_lineaire_1/TD_alg1.pdf)
 - **Probabilités**, L2 mathématiques, *CY Cergy Paris Université*, 2026-2027.
   - CM assuré par [Emmanuel Hebey](https://hebey.u-cergy.fr/)
